@@ -1,6 +1,6 @@
 var changeIMG1 = new Array();
 changeIMG1[0] =
-  "https://giphy.com/gifs/brawlstars-official-dj-frank-djfrank-Jsu7wXi2uhtzfR94mQ";
+  "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG84Y3V6aGhwbXlrZ3R6YmlxcHFpenBrOTAzZTNjcmtjaTV1cXhpeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Jsu7wXi2uhtzfR94mQ/giphy.gif";
 changeIMG1[1] = "https://media1.giphy.com/media/CtEH4E31mzF1S/giphy.gif";
 changeIMG1[2] =
   "https://37.media.tumblr.com/6273dcf98ec8b040ab7d201a05ca17fb/tumblr_mr6eleKMXY1rp0vkjo1_500.gif";

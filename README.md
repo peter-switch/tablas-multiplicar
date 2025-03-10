@@ -1,5 +1,7 @@
 # Tablas de Multiplicar Interactivas
 
+![image](https://repository-images.githubusercontent.com/946046085/795f0246-24eb-468a-bd55-b393be9908d1)
+
 Este es un proyecto desarrollado en HTML, JavaScript, PHP y Bootstrap\*\* para ayudar a los niños a repasar las tablas de multiplicar de una manera divertida e interactiva. Al acertar una respuesta, se muestran gifs animados como recompensa.
 
 ## ✨ Características

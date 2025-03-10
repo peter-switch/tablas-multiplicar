@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "description": "Aprende y repasa las tablas de multiplicar en cualquier sitio y forma divertida. Diseñado por un papá y su hija.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Tablas de multiplicar",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Tablas",
+  "start_url": "/",
+  "theme_color": "#e83283",
+  "categories": ["game", "education", "math"],
+  "screenshots": [],
+  "icons": [
+    {
+      "src": "./img/icon.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "./img/icon.ico",
+      "type": "image/x-icon"
+    }
+  ],
+  "shortcuts": [],
+  "lang": "es"
+}

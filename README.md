@@ -7,21 +7,29 @@ Este es un proyecto desarrollado en HTML, JavaScript, PHP y Bootstrap para ayuda
 ## ✨ Características
 
 - Selección de la tabla de multiplicar a repasar.
+
 - Interfaz colorida y atractiva con Bootstrap.
+
 - Respuestas interactivas con feedback visual.
-- Implementado en PHP para gestionar la lógica del servidor.
+
+- Implementado en PHP.
+
 - Gifs animados como incentivo para motivar a los peaques y no tan peques.
 
 ## 🚀 Demo en vivo
 
 Puedes probar la aplicación en el siguiente enlace:
+
 [Tablas de Multiplicar](https://rizos.pro/tablas/)
 
 ## 💪 Tecnologías utilizadas
 
 - HTML
+
 - CSS y Bootstrap
+
 - JavaScript
+
 - PHP
 
 ## 📂 Instalación y uso
@@ -36,13 +44,7 @@ Puedes probar la aplicación en el siguiente enlace:
 
 ## 🛠️ Contribuir
 
-Si quieres mejorar la aplicación, eres bienvenido/a a contribuir:
-
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b mi-mejora`).
-3. Realiza tus modificaciones y haz un commit (`git commit -m "Agrega nueva función"`).
-4. Sube los cambios (`git push origin mi-mejora`).
-5. Abre un Pull Request.
+Si quieres mejorar la aplicación, eres bienvenido/a a contribuir en lo que estimes. Lo importante es aprender a gestionar las tablas de multiplicar. :)
 
 ## 💛 Agradecimientos
 
